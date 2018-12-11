@@ -10,3 +10,5 @@
 
 # Contributors
 
+![Josh](https://avatars2.githubusercontent.com/u/5901894?s=20&v=4) 
+[JoshYu](https://github.com/JoshYuJump/)
