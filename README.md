@@ -5,6 +5,8 @@
 
 # 目录
 
+[001 在运行时获取类名或函数名](https://github.com/JoshYuJump/python-box/blob/master/tricks/001-accessing-class-and-function-names-at-runtime.md)
+
 
 # Contributors
 
