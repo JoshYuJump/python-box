@@ -7,6 +7,8 @@
 
 [001 在运行时获取类名或函数名](https://github.com/JoshYuJump/python-box/blob/master/tricks/001-accessing-class-and-function-names-at-runtime.md)
 
+[004 类方法 VS 静态方法 VS 普通方法](https://github.com/JoshYuJump/python-box/blob/master/tricks/004-classmethod-staticmethod-plain-method.md)
+
 
 # Contributors
 
