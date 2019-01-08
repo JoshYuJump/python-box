@@ -1,3 +1,7 @@
+## 005 非常棒的 python 内置 globals() 和 locals()
+
+---
+
 ```python
 
 # globas()方法返回了一个字典，
