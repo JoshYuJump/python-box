@@ -9,6 +9,7 @@
 
 [004 类方法 VS 静态方法 VS 普通方法](https://github.com/JoshYuJump/python-box/blob/master/tricks/004-classmethod-staticmethod-plain-method.md)
 
+[005 globals() vs locals()](https://github.com/JoshYuJump/python-box/blob/master/tricks/005-Awesome-Python-built-ins-globals()-and-locals().md)
 
 # Contributors
 
