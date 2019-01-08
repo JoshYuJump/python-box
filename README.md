@@ -7,6 +7,8 @@
 
 [001 在运行时获取类名或函数名](https://github.com/JoshYuJump/python-box/blob/master/tricks/001-accessing-class-and-function-names-at-runtime.md)
 
+[003 匿名函数 lambda 函数](https://github.com/JoshYuJump/python-box/blob/master/tricks/003-lambda-functions.md)
+
 [004 类方法 VS 静态方法 VS 普通方法](https://github.com/JoshYuJump/python-box/blob/master/tricks/004-classmethod-staticmethod-plain-method.md)
 
 [005 非常棒的 python 内置 globals() 和 locals()](https://github.com/JoshYuJump/python-box/blob/master/tricks/005-Awesome-Python-built-ins-globals-and-locals.md)
